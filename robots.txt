@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaekohriex.pydata.cz/sitemap.xml
